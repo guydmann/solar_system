@@ -15,6 +15,7 @@ include("../../header.html"); ?>
 
 <?php include("../../topbar.phtml"); ?>
 <script type="text/javascript" src="./Three.js"></script>
+<script type="text/javascript" src="./base.js"></script>
 
 
 <div style="padding: 3em">
