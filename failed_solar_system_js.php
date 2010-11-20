@@ -6,7 +6,7 @@ if (!isset($_GET['width']) || $_GET['width'] <= "") {
         $width = $_GET['width'];
 }
 if (!isset($_GET['height']) || $_GET['height'] <= "") { 
-        $height = "800";
+        $height = "500";
 } else {
         $height = $_GET['height'];
 }
