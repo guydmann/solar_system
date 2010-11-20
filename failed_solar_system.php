@@ -23,7 +23,7 @@ include("../../header.html"); ?>
 <br>The git repository is <a href="http://github.com/guydmann/solar_system">here</a>
 <br><br>
 <br>
-<?php include("./solar_system.php"); ?>
+<?php include("./failed_solar_system_js.php"); ?>
 </div>
 </body>
 </html>
