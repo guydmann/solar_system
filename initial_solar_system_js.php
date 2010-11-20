@@ -1,12 +1,12 @@
 <?php 
 
 if (!isset($_GET['width']) || $_GET['width'] <= "") { 
-        $width = "800";
+        $width = "600";
 } else {
         $width = $_GET['width'];
 }
 if (!isset($_GET['height']) || $_GET['height'] <= "") { 
-        $height = "500";
+        $height = "600";
 } else {
         $height = $_GET['height'];
 }
